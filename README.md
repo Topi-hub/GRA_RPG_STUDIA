@@ -49,5 +49,5 @@ Dzięki takiej architekturze kod jest modularny, łatwy do rozbudowy i utrzymani
 
 Poniżej znajduje się diagram UML przedstawiający główne klasy i zależności w projekcie:
 
-![UML Diagram](assets/uml_diagram.png)
+![UML Diagram](Diagram_UML_RPG.png)
 
