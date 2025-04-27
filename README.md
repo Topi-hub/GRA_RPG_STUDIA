@@ -9,7 +9,7 @@ Głównym celem biznesowym projektu jest **nauka oraz prezentacja umiejętności
 - C# (programowanie obiektowe)
 - Tileset: Tiny Swords (grafika 32x32 px)
 - TextMeshPro (do UI gracza)
-- Rider/Visual Studio (do edycji kodu)
+- Visual Studio (do edycji kodu)
 
 ## Lista funkcjonalności
 
