@@ -7,7 +7,7 @@ Głównym celem biznesowym projektu jest **nauka oraz prezentacja umiejętności
 ## Technologie użyte w projekcie
 - Unity 2022+
 - C# (programowanie obiektowe)
-- Tileset: Tiny Swords (grafika 32x32 px)
+- Tileset: Tiny Swords (grafika 64x64 px)
 - TextMeshPro (do UI gracza)
 - Visual Studio (do edycji kodu)
 
