@@ -1,7 +1,7 @@
-# Tiny Swords RPG
+# GRA_STUDIA_RPG
 
 ## Opis projektu
-**Tiny Swords RPG** to klasyczna gra RPG 2D stworzona w **Unity**, osadzona w świecie dwóch wysp: wyspy zamkowej i wyspy poziomów. Gracz steruje postacią przemierzającą mapę, walczącą z przeciwnikami i awansującą na kolejne poziomy.  
+**GRA_STUDIA_RPG** to klasyczna gra RPG 2D stworzona w **Unity**, osadzona w świecie dwóch wysp: wyspy zamkowej i wyspy poziomów. Gracz steruje postacią przemierzającą mapę, walczącą z przeciwnikami i awansującą na kolejne poziomy.  
 Głównym celem biznesowym projektu jest **nauka oraz prezentacja umiejętności programowania obiektowego i tworzenia gier w Unity**.
 
 ## Technologie użyte w projekcie
