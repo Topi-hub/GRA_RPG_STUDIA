@@ -26,7 +26,7 @@ Głównym celem biznesowym projektu jest **nauka oraz prezentacja umiejętności
 ## Instalacja i uruchomienie
 
  1. Pobierz załączony folder E.rar, w którym zawarta jest gra.
- 2. Wypakuje folder.
+ 2. Wypakuj folder.
  3. Otwórz program o nazwie RPG_Studia.exe
 
 ## Opis architektury projektu
