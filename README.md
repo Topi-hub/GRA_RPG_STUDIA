@@ -15,7 +15,8 @@ Głównym celem biznesowym projektu jest **nauka oraz prezentacja umiejętności
 
 | Funkcjonalność             | Opis                                      | Screenshot                |
 |:----------------------------|:-----------------------------------------|:---------------------------|
-| **Ruch gracza**             | Swobodne poruszanie się po mapie          | *(screen gameplay)*        |
+| **Ruch gracza**             | Swobodne poruszanie się po mapie          | ![image](https://github.com/user-attachments/assets/79d37da6-2a20-4843-a471-488d353dfe24)
+        |
 | **Walka**                   | Atakowanie przeciwników w zwarciu         | *(screen podczas walki)*   |
 | **Cooldown ataku**          | Pasek pokazujący czas ładowania ataku     | *(screen cooldown)*        |
 | **Pasek zdrowia**           | Pasek HP nad przeciwnikami i graczem      | *(screen HP)*              |
