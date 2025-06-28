@@ -58,6 +58,32 @@ Dzięki takiej architekturze kod jest modularny, łatwy do rozbudowy i utrzymani
 - Różne typy wrogów (zasięgowi, szybcy, silni)
 - System portali między lokacjami
 
+## Screeny z edytora Unity
+Poniższe zrzuty ekranu przedstawiają widok z edytora Unity – pokazują strukturę scen, ułożenie obiektów oraz konfigurację komponentów i skryptów.
+
+Scena Level1 – Rozmieszczenie przeciwników
+
+![image](https://github.com/user-attachments/assets/c80bdb55-e281-413e-b7cf-ee3a51adb3aa)
+
+
+Widok poziomu z wieloma przeciwnikami, przeszkodami i portalem. Wrogowie posiadają komponent EnemyAI, który określa ich zasięg widzenia, prędkość, kąt ataku i inne parametry.
+
+
+Scena SampleScene – Mapa główna (hub)
+
+![image](https://github.com/user-attachments/assets/b4b2e33a-2cd7-4061-9ba7-1e195ea593e6)
+
+
+Główna mapa, z której gracz wybiera poziom. Po lewej zamek, po prawej dom gracza. Poziomy są połączone mostem i systemem portali (LevelPortal).
+
+
+Rozbudowana scena Level1 – konfiguracja AI
+
+![image](https://github.com/user-attachments/assets/4d26d8e6-1f94-4d7f-8162-af4e1740f31d)
+
+
+Widok z rozbudowaną sceną walki. Widać inspektor z komponentami Enemy i EnemyAI, które kontrolują zachowanie wrogów. Każdy wróg ma osobny pasek życia (HealthBar).
+
 ## Diagram klas UML
 
 Poniżej znajduje się diagram UML przedstawiający główne klasy i zależności w projekcie:
