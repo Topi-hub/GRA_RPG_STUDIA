@@ -66,7 +66,7 @@ Scena Level1 – Rozmieszczenie przeciwników
 ![image](https://github.com/user-attachments/assets/c80bdb55-e281-413e-b7cf-ee3a51adb3aa)
 
 
-Widok poziomu z wieloma przeciwnikami, przeszkodami i portalem. Wrogowie posiadają komponent EnemyAI, który określa ich zasięg widzenia, prędkość, kąt ataku i inne parametry.
+Widok poziomu z wieloma przeciwnikami, przeszkodami i portalem. Wrogowie posiadają komponent EnemyAI, który określa ich zasięg widzenia, prędkość, kąt ataku i inne parametry. Po prawej stronie widać ustawienia dla gracza (Player).
 
 
 Scena SampleScene – Mapa główna (hub)
