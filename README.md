@@ -45,6 +45,19 @@ Główne założenia OOP w projekcie:
 
 Dzięki takiej architekturze kod jest modularny, łatwy do rozbudowy i utrzymania.
 
+## Plany na przyszłość
+
+[ ] Dodanie systemu ekwipunku i przedmiotów
+[ ] Dodanie systemu zadań (questów)
+[ ] Interaktywne NPC (dialogi, sklepy)
+[ ] System poziomów doświadczenia (XP, leveling)
+[ ] Efekty dźwiękowe i tło muzyczne
+[ ] System zapisów i wczytywania gry
+[ ] Boss fight na końcu każdego etapu
+[ ] Więcej animacji (atak, śmierć, idle)
+[ ] Różne typy wrogów (zasięgowi, szybcy, silni)
+[ ] System portali między lokacjami
+
 ## Diagram klas UML
 
 Poniżej znajduje się diagram UML przedstawiający główne klasy i zależności w projekcie:
